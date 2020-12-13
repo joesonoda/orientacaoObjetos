@@ -1,0 +1,26 @@
+anotações da aula de java objetos
+
+empresa que criou: Sun
+
+criador:james Gosting (green team)
+
+bytecode: codigo de maquina
+
+java virtual machine: JVM
+
+hotspot:programa pesado que precisa ser covertido na linguagem do servidor para nao sobrecarregar o jvm
+
+JIT: just in time compiler (programa que converte a linguagem e joga o hotspot pro servidor pra nao sobrecaregar o  jvm.
+
+applets:+ panasonic
+
+
+crtl+alt+t: abre a tela de comando
+
+acessar pasta comando---   
+c:>cd desktop
+c;/desktop >javac Inicial.java
+c:/desltop>java Inicial
+Hello world
+c:/desktop>
+ 
